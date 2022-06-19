@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2022/06/19/XXfZvT.jpg",
+                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "https://yikcoyi.github.io",
+            "url": "http://www.luckyzmj.cn",
             "customTile": "",
             "urlRandomToken": true
         },
