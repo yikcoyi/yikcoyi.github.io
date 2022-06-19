@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yikcoyi.github.io/posts/0.html</loc>
+    <loc>https://yikcoyi.github.io/posts/e3e08109.html</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/posts/e3e08109.html</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/posts/e3e08109.html</loc>
     
     <lastmod>2022-06-19</lastmod>
     
@@ -23,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://yikcoyi.github.io/google1xxxxxxx0.html</loc>
+    <loc>https://yikcoyi.github.io/baidu_verify_xxxxxxx.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yikcoyi.github.io/baidu_verify_xxxxxxx.html</loc>
+    <loc>https://yikcoyi.github.io/google1xxxxxxx0.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -163,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://yikcoyi.github.io/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
+    <loc>https://yikcoyi.github.io/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yikcoyi.github.io/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
+    <loc>https://yikcoyi.github.io/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -213,6 +227,48 @@
   </url>
 
   
+  <url>
+    <loc>https://yikcoyi.github.io/tags/%E5%90%8C%E4%BA%BA/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/tags/%E5%B8%AE%E5%8A%A9/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/tags/%E5%8E%9F%E5%88%9B/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://yikcoyi.github.io/categories/2/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/categories/3/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yikcoyi.github.io/categories/1/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
