@@ -6,7 +6,7 @@
   <link href="https://yikcoyi.github.io/atom.xml" rel="self"/>
   
   <link href="https://yikcoyi.github.io/"/>
-  <updated>2022-06-19T09:00:17.203Z</updated>
+  <updated>2022-06-19T09:11:17.840Z</updated>
   <id>https://yikcoyi.github.io/</id>
   
   <author>
@@ -17,35 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>个人博客搭建</title>
+    <title>教学</title>
     <link href="https://yikcoyi.github.io/posts/e3e08109.html"/>
     <id>https://yikcoyi.github.io/posts/e3e08109.html</id>
     <published>2022-06-19T16:00:00.000Z</published>
-    <updated>2022-06-19T09:00:17.203Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="2" scheme="https://yikcoyi.github.io/categories/2/"/>
-    
-    
-    <category term="同人" scheme="https://yikcoyi.github.io/tags/%E5%90%8C%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人博客搭建</title>
-    <link href="https://yikcoyi.github.io/posts/e3e08109.html"/>
-    <id>https://yikcoyi.github.io/posts/e3e08109.html</id>
-    <published>2022-06-19T16:00:00.000Z</published>
-    <updated>2022-06-19T09:00:38.627Z</updated>
+    <updated>2022-06-19T09:11:17.840Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
@@ -65,11 +41,35 @@
   </entry>
   
   <entry>
-    <title>个人博客搭建</title>
+    <title>同人</title>
     <link href="https://yikcoyi.github.io/posts/e3e08109.html"/>
     <id>https://yikcoyi.github.io/posts/e3e08109.html</id>
     <published>2022-06-19T16:00:00.000Z</published>
-    <updated>2022-06-19T08:58:04.692Z</updated>
+    <updated>2022-06-19T09:11:11.001Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="2" scheme="https://yikcoyi.github.io/categories/2/"/>
+    
+    
+    <category term="同人" scheme="https://yikcoyi.github.io/tags/%E5%90%8C%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原创</title>
+    <link href="https://yikcoyi.github.io/posts/e3e08109.html"/>
+    <id>https://yikcoyi.github.io/posts/e3e08109.html</id>
+    <published>2022-06-19T16:00:00.000Z</published>
+    <updated>2022-06-19T09:11:23.439Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
